@@ -1,0 +1,44 @@
+.header-logo,
+.copyright-logo {
+    background: black;
+}
+.main-banner-left,
+.main-banner-right{
+    width: 560px;
+    height: 229px;
+    border-radius: 15px;
+}
+.main-banner-left {
+    background-image: url(../img/berrys.jpg);
+}
+.main-banner-right {
+    background-image: url(../img/shoco.jpg);
+}
+.main-seo {
+    width: 1145px;
+    height: 305px;
+    background-image: url(../img/seo-back.jpg);
+    border-radius: 15px;
+}
+.main-news,
+.main-send{
+    width: 560px;
+    height: 220px;
+    border-radius: 15px;
+}
+.main-news {
+    background-image: url(../img/strawberry.png);
+}
+.main-send {
+    background-image: url(../img/post.png);
+    position: relative;
+}
+.send-content {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 549px;
+    height: 211px;
+    background-color: #f8f7f4;
+    border-radius: 15px;
+}
